@@ -1,0 +1,65 @@
+Notebook[{Cell[
+TextData[{"Zad"," ","1","\n"}],"Text",ExpressionUUID -> "bb71a8dc-eaff-4562-a9e1-9b7564af736f"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Reverse","[",RowBox[{"Boole","[",RowBox[{"BooleanTable","[",RowBox[
+{RowBox[{RowBox[{"(",RowBox[{RowBox[{"(",RowBox[{"A"," ","&&"," ","B"}],")"}]," ","||"," ",RowBox[
+{"!","C"}]}],")"}]," ","&&"," ",RowBox[{"(",RowBox[{RowBox[{"!","B"}]," ","||"," ",RowBox[
+{"(",RowBox[{"C"," ","&&"," ",RowBox[{"!","A"}]}],")"}]}],")"}]}]," ","||"," ",RowBox[
+{"(",RowBox[{RowBox[{"!","A"}]," ","&&"," ",RowBox[{"!","B"}]," ","&&"," ",RowBox[
+{"!","C"}]}],")"}]}],"]"}],"]"}],"]"}]],"Input",CellLabel -> "In[6]:= ",ExpressionUUID -> "1e278a1c-f2b1-44d9-a175-a4c036d7645e"],Cell[
+BoxData[
+RowBox[{"{",RowBox[{"1",",","0",",","0",",","0",",","1",",","0",",","0",",","0"}],"}"}],
+StandardForm],"Output",CellLabel -> "Out[6]= ",ExpressionUUID -> "d9c80de0-b10e-4d69-8bdb-258557240eeb"]},
+Open],ExpressionUUID -> "33e30a8e-d00f-4c10-8b23-4ef745f322a3"],Cell[
+TextData[{"Zad"," ","2"}],
+"Text",ExpressionUUID -> "086d08b7-16d3-4c2d-867a-81f0ff707d78"],Cell[
+TextData[{"Ci\:0105g"," ","bit\[OAcute]w"," ","01000010","\n","Bit\[OAcute]w"," ","jest"," ","8"," ","wi\:0119c"," ","zmiennych"," ","s\:0105"," ","3","\n","Porz\:0105dkuj\:0105c"," ","kiedy"," ","wyra\:017cenie"," ","zwraca"," ","1","\n","A",StyleBox[
+RowBox[{" ","="," "}]],"0"," ","B",StyleBox[RowBox[{" ","="," "}]],"0"," ","C",StyleBox[
+RowBox[{" ","="," "}]],"0",StyleBox[RowBox[{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[
+{" ","="," "}]],"0","\n","A",StyleBox[RowBox[{" ","="," "}]],"0"," ","B",StyleBox[
+RowBox[{" ","="," "}]],"0"," ","C",StyleBox[RowBox[{" ","="," "}]],"1",StyleBox[RowBox[
+{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[{" ","="," "}]],"1","\n","A",StyleBox[RowBox[
+{" ","="," "}]],"0"," ","B",StyleBox[RowBox[{" ","="," "}]],"1"," ","C",StyleBox[
+RowBox[{" ","="," "}]],"0",StyleBox[RowBox[{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[
+{" ","="," "}]],"0","\n","A",StyleBox[RowBox[{" ","="," "}]],"0"," ","B",StyleBox[
+RowBox[{" ","="," "}]],"1"," ","C",StyleBox[RowBox[{" ","="," "}]],"1",StyleBox[RowBox[
+{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[{" ","="," "}]],"0","\n","A",StyleBox[RowBox[
+{" ","="," "}]],"1"," ","B",StyleBox[RowBox[{" ","="," "}]],"0"," ","C",StyleBox[
+RowBox[{" ","="," "}]],"0",StyleBox[RowBox[{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[
+{" ","="," "}]],"0","\n","A",StyleBox[RowBox[{" ","="," "}]],"1"," ","B",StyleBox[
+RowBox[{" ","="," "}]],"0"," ","C",StyleBox[RowBox[{" ","="," "}]],"1",StyleBox[RowBox[
+{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[{" ","="," "}]],"0","\n","A",StyleBox[RowBox[
+{" ","="," "}]],"1"," ","B",StyleBox[RowBox[{" ","="," "}]],"1"," ","C",StyleBox[
+RowBox[{" ","="," "}]],"0",StyleBox[RowBox[{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[
+{" ","="," "}]],"1","\n","A",StyleBox[RowBox[{" ","="," "}]],"1"," ","B",StyleBox[
+RowBox[{" ","="," "}]],"1"," ","C",StyleBox[RowBox[{" ","="," "}]],"1",StyleBox[RowBox[
+{" ","\[Rule]"," "}]],"F",StyleBox[RowBox[{" ","="," "}]],"0","\n","\n","Wyra\:017cenie"," ","jest"," ","prawdziwe"," ","dla"," ","A",StyleBox[
+RowBox[{" ","="," "}]],"0"," ","i"," ","B",StyleBox[RowBox[{" ","="," "}]],"0"," ","i"," ","C",StyleBox[
+RowBox[{" ","="," "}]],"1"," ","lub"," ","A",StyleBox[RowBox[{" ","="," "}]],"1"," ","i"," ","B",StyleBox[
+RowBox[{" ","="," "}]],"1"," ","i"," ","C",StyleBox[RowBox[{" ","="," "}]],"0","\n","\:017beby"," ","zapisa\[CAcute]"," ","to"," ","w"," ","postaci"," ","wyra\:017cenia"," ","logicznego",":","\n","F","(","A",",","B",",","C",StyleBox[
+RowBox[{")"," ","="," ","("}]],"A'","^","B'","^","C",StyleBox[RowBox[{")"," ","\[Or]"," ","("}]],"A","^","B","^","C'",")"}],
+"Text",ExpressionUUID -> "a0fbeac9-c15b-423b-9281-452f93348a7f"],Cell[
+TextData[{"Zad"," ","3","\n","Plik"," ","PDF"," ","nr"," ","1","\n","\n","Zad"," ","4","\n"}],
+"Text",ExpressionUUID -> "766bc534-1010-49f3-8029-05f00a18c682"],Cell[
+CellGroupData[
+{Cell[
+BoxData[{RowBox[{"wyra\:017cenie"," ","="," ",RowBox[{RowBox[{RowBox[{"(",RowBox[
+{RowBox[{"(",RowBox[{"A"," ","&&"," ","B"}],")"}]," ","||"," ",RowBox[{"!","C"}]}],")"}]," ","&&"," ",RowBox[
+{"(",RowBox[{RowBox[{"!","B"}]," ","||"," ",RowBox[{"(",RowBox[{"C"," ","&&"," ",RowBox[
+{"!","A"}]}],")"}]}],")"}]}]," ","||"," ",RowBox[{"(",RowBox[{RowBox[{"!","A"}]," ","&&"," ",RowBox[
+{"!","B"}]," ","&&"," ",RowBox[{"!","C"}]}],")"}]}]}],RowBox[{"\n","\n","\n"}],RowBox[
+{"BooleanConvert","[",RowBox[{"wyra\:017cenie",","," ","\"DNF\""}],"]"}]}],"Input",
+CellLabel -> "In[7]:= ",ExpressionUUID -> "ffd69f7a-2255-4ea4-8eec-119a9f1d0420"],Cell[
+BoxData[
+RowBox[{RowBox[{"(",RowBox[{RowBox[{"(",RowBox[{RowBox[{"(",RowBox[{"A","&&","B"}],")"}],"||",RowBox[
+{"!","C"}]}],")"}],"&&",RowBox[{"(",RowBox[{RowBox[{"!","B"}],"||",RowBox[{"(",RowBox[
+{"C","&&",RowBox[{"!","A"}]}],")"}]}],")"}]}],")"}],"||",RowBox[{"(",RowBox[{RowBox[
+{"!","A"}],"&&",RowBox[{"!","B"}],"&&",RowBox[{"!","C"}]}],")"}]}],StandardForm],
+"Output",CellLabel -> "Out[7]= ",ExpressionUUID -> "33b84c06-2160-426b-a392-a1a2e93772cd"],Cell[
+BoxData[
+RowBox[{RowBox[{"!","B"}],"&&",RowBox[{"!","C"}]}],StandardForm],"Output",CellLabel -> "Out[8]= ",
+ExpressionUUID -> "d14144a4-c07c-4d91-a195-3944e329224f"]},Open],ExpressionUUID -> "32b8721a-a116-4624-a045-2b7fa822a17c"],Cell[
+TextData[
+{"Plik"," ","PDF"," ","nr"," ","2"}],"Text",ExpressionUUID -> "22bfc704-f7c3-4b29-a3fa-ad04a8ce8b31"]},
+StyleDefinitions -> "Default.nb",FrontEndVersion -> "14.1 for Wolfram Cloud 1.70 (October 17, 2024)"]
